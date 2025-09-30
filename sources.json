@@ -2,7 +2,7 @@
   "name": "sea",
   "downloads": [
     {
-      "title": "SILENT HILL f (GOFILE)",
+      "title": "SILENT HILL f",
       "uploadDate": "2025",
       "fileSize": "45.6 GB",
       "uris": [
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "title": "Hollow Knight: Silksong (GOFILE)",
+      "title": "Hollow Knight: Silksong",
       "uploadDate": "2025",
       "fileSize": "4.3 GB",
       "uris": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "title": "Rise of the Ronin (GOFILE)",
+      "title": "Rise of the Ronin",
       "uploadDate": "2025",
       "fileSize": "115.1 GB",
       "uris": [
@@ -26,12 +26,12 @@
       ]
     },
     {
-      "title": "Sekiro: Shadows Die Twice (GOFILE)",
+      "title": "Sekiro: Shadows Die Twice",
       "uploadDate": "2025",
       "fileSize": "14.2 GB",
       "uris": [
         "https://gofile.io/d/jROpqs"
       ]
-    },
+    }
   ]
 }
